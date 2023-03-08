@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I'm a first year master working with the Electronics and Information Science College, Beihang University, Beijing. My research interests mainly include radar signal processing, target tracking and sensor fusion. Here is my [personal website](https://zhiyuan-yang.github.io).
+- 🌱 I grow up in Anshan, Liaoning, a small city located in northeast China. In 2018, I was admitted to Beihang University where I received my B.S. in Enginnering.
