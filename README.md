@@ -21,5 +21,5 @@ Here are some ideas to get you started:
   <a href="mailto:zyyang0416@buaa.edu.cn"> <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=plastic&logo=gmail&logoColor=white" height="25px" alt="Email">
 </p>
 
-- 🔭 I'm a first year master working with the Electronics and Information Science College, Beihang University, Beijing. My research interests mainly include radar signal processing, target tracking and sensor fusion. Here is my [personal website](https://zhiyuan-yang.github.io).
-- 🌱 I grow up in Anshan, Liaoning, a small city located in northeast China. In 2018, I was admitted to Beihang University where I received my B.S. in Enginnering.
+- 🔭 I'm a second year Master's student at Beihang University, Beijing, China. My research interests mainly include radar signal processing, target tracking and machine learning. Here is my [personal website](https://zhiyuan-yang.github.io).
+- 🌱 I grow up in Anshan, Liaoning, a small city located in northeast China. In 2018, I was admitted to Beihang University where I received my B.Sc. in Electrical Enginnering.
